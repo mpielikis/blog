@@ -8,14 +8,16 @@
   </head>
 <body>
   <h1>Nice. It's looking good already.</h1>
-  <ul>
-    {{ range (where .Pages "Section" "blog") }}
-    <li>
-      <a href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-    </li>
-    {{ end }}
+{{ range (where .Site.RegularPages "Section" "blog") }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <small>{{ .Date.Format "2006-01-02" }}</small><br/>
+    <p>{{ .Params.description }}</p>
+  </li>
+{{ else }}
+  <li>No blog posts found.</li>
+{{ end }}
+
   </ul>
 </body>
 </html>
