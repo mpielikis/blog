@@ -12,6 +12,14 @@
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     <small>{{ .Date.Format "2006-01-02" }}</small><br/>
+    {{ $format := "2006-01-02 15:04:05 -0700"}}
+    {{ with .Date  }}
+       <small>STRING: {{ string . }}</small><br/>
+       <small>NOW: {{ now.Format $format }}</small><br/>
+       <small>DATE: {{ .Format $format }}</small><br/>
+       <small>UTC: {{ .UTC.Format $format }}</small><br/>
+       <small>Local: {{ .Local.Format $format }}</small><br/>
+    {{ end }}
     <p>{{ .Params.description }}</p>
   </li>
 {{ else }}
