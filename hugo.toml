@@ -6,6 +6,21 @@ title = 'Mindaugo rašiniai'
   [[module.imports]]
     path = "github.com/hugo-sid/hugo-blog-awesome"
 
+
+[menu]
+  [[menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Pradžia'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="blog"
+    name = 'Užrašai'
+    url = '/blog/'
+    weight = 20
+
 [params]
   sitename = "Mindaugo rašiniai"
   defaultColor = "dark" # set color mode: dark, light, auto
@@ -35,3 +50,4 @@ title = 'Mindaugo rašiniai'
   intro = "Mindaugo rašiniai"
   name = "Mindaugs"
   description = "Mano atradimai ir priminimai sau"
+
