@@ -51,3 +51,6 @@ title = 'Mindaugo rašiniai'
   name = "Mindaugs"
   description = "Mano atradimai ir priminimai sau"
 
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/mpielikis"
