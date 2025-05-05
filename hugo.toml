@@ -54,3 +54,7 @@ title = 'Mindaugo rašiniai'
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/mpielikis"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
