@@ -48,7 +48,7 @@ Kai veiksmažodis valdo ne galininką, o kokį kitą linksnį, šis linksnis su 
 
 Nors sakome *jie supranta* (*myli, gerbia..*) *vienas kitą*, beasmeniniuose sakiniuose sakytina *Reikia suprasti* (mylėti, gerbti..) *vienam kitą*.
 
-Yra vadinamasis vardo vardininkas, kuriuo dažniausiai reiškiami literatūros, dailės, muzikos ir kitų sričių meno kūrinių pavadinimai (šitoks vardo vardininkas imamas į kabutes): *Apsakyme „Marti“* (**ne** *apsakyme „Marčioje“*) *Žemaitė pavaizdavo to meto kaimą*.
+Yra vadinamasis vardo vardininkas, kuriuo dažniausiai reiškiami literatūros, dailės, muzikos ir kitų sričių meno kūrinių pavadinimai (šitoks vardo vardininkas imamas į kabutes): *Apsakyme „Marti“* (ne *apsakyme „Marčioje“*) *Žemaitė pavaizdavo to meto kaimą*.
 
 Svyruojama nusakant į kabutes imamus simbolinius įstaigų, įmonių ir kitokių objektų vardus. Tokie oficialūs pavadinimai dabar paprastai registruojami parinkus vardininko formą, pvz: *AB „Sparta“* (buvęs trikotažo fabrikas „Sparta“, kurį lietuviai iš tradicijos dažniau vadindavo „Spartos“ fabrikas. Ir dabar išlikusi tradicija mokyklų simbolinius vardus nusakyti tik kilmininkais, pvz: *„Aušros“ gimnazija*, *„Vyturio“ vidurinė mokykla*. Kitais atvejais leidžiama vartoti pasirinktinai: *Sesuo dirbo leidykloje „Vaga“* arba *„Vagos“ leidykloje*.
 
