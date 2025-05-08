@@ -1,5 +1,5 @@
 ---
-title: Sintaksės Klaidos. Kilmininkas
+title: Sintaksės Klaidos. KILMININKAS
 date: 2025-05-08T12:45:00.000Z
 description: J.Šukys „Lietuvių kalbos linksniai ir prielinksniai"
 ---
@@ -63,35 +63,35 @@ Vietoj neiginio kilmininko **vartoti neiginio galininką** (*neperka knygą, nek
 
 Kai turi neiginį ne pati bendratis, o su ja einantis koks pagalbinis veiksmažodis, bendrinei kalbai teiktinesnis neiginio kilmininkas: *nereikia pirkti knygos*; *negalima, nebūtina, nepatartina laikyti arklio*, bet tokiu atveju įmanomas ir galininkas: *nereikia pirkti knygą*; *negalima, nebūtina, nepatartina laikyti arklį*.
 
-Jei paneigtas ne sakinio veiksmažodis, o įvardis, prieveiksmis ir pan., neiginio kilmininkas nevartotinas: Ne visi galėjo suprasti kalbos turinio (=turinį). Tai nne visai atitinka standarto (=standartą).
+Jei paneigtas ne sakinio veiksmažodis, o įvardis, prieveiksmis ir pan., neiginio kilmininkas nevartotinas: *Ne visi galėjo suprasti kalbos turinio* (=*turinį*). *Tai ne visai atitinka standarto* (=*standartą*).
 
-Kilmininkas nereiškia aplinkybių, tačiau jis, paprastai su bendratimi, rodo tikslą, ši reikšmė atsiranda tada, kai kilmininką valdo slinkties veiksmažodžiai eiti, bėgti, važiuoti, vykti.(a) arba siekimo veiksmažodžiai siųsti, varyti, rengtis, rinktis.(b):
+Kilmininkas nereiškia aplinkybių, tačiau jis, paprastai su bendratimi, rodo tikslą, ši reikšmė atsiranda tada, kai kilmininką valdo slinkties veiksmažodžiai *eiti, bėgti, važiuoti, vykti*. (**a**) arba siekimo veiksmažodžiai *siųsti, varyti, rengtis, rinktis*.(**b**):
 
-* a. Eikim šieno grėti.
-* b. Mane močiutė barė, linelių raut išvarė(daina).
+* **a**. *Eikim šieno grėbti.*
+* **b**. *Mane močiutė barė, linelių raut išvarė* (daina).
 
-Kaip matome bendraties vieta įvairuoja , bet įprasčiau, tradiciškiau ją kelti po kilmininko. Sakant bendratį prieš linksnį, stiprėja pagunda rinktis galininką (Jie vyks į užsienį studijuiti ekonomiką .Susirinkome aptarti svarbų klausimą), o tai jau yra klaida, nes kilmininkas ssu pritapusia bendratimi sudaro nedalomą sudėtinę tikslo aplinkybę, ir klausimas čia keltinas vyks į užsienį-ko? Kokiu tikslu? Susirinkome-ko? Kokiu tikslu?, o ne studijuoti ką? Aptarti ką? Netinka čia ir naudininkas. Vietoj Atsiuntė studentų praktikos atlikti nesakytina praktikai atlikti.
+Kaip matome bendraties vieta įvairuoja, bet įprasčiau, tradiciškiau ją kelti po kilmininko. Sakant bendratį prieš linksnį, stiprėja pagunda rinktis galininką (*Jie vyks į užsienį studijuiti ekonomiką*. *Susirinkome aptarti svarbų klausimą*), o tai jau yra klaida, nes kilmininkas su pritapusia bendratimi sudaro nedalomą sudėtinę tikslo aplinkybę, ir klausimas čia keltinas v*yks į užsienį — ko?* *Kokiu tikslu?* *Susirinkome — ko?* *Kokiu tikslu?*, o ne *studijuoti ką?* *Aptarti ką?* Netinka čia ir naudininkas. Vietoj *Atsiuntė studentų praktikos atlikti* nesakytina *praktikai atlikti*.
 
-Daugelyje Lietuvos tarmių tikslo kilmininkas su bendratimi vartojamas taip pat su siekimo atspalvį turinčiu veiksmažodžiu kviesti, jo sinonimais šaukti, prašyti, vadinti. Tokia vartosena nesvetima ir bendrinei kalbai: Kviečiame alučio paragauti. Mokytojas šaukia mokinį pamokos atsakinėti.
+Daugelyje Lietuvos tarmių tikslo kilmininkas su bendratimi vartojamas taip pat su siekimo atspalvį turinčiu veiksmažodžiu *kviesti*, jo sinonimais *šaukti, prašyti, vadinti*. Tokia vartosena nesvetima ir bendrinei kalbai: *Kviečiame alučio paragauti*. *Mokytojas šaukia mokinį pamokos atsakinėti.*
 
-Kai bendratis lengvai numanoma, paprastai vartojamas grynasis tikslo kilmininkas, t.y. kilmininkas be bendraties: Kaimynas buvo kirvio atėjęs. Bėgdavom į pašlaites žibuoklių. Tačiau bendraties negalima praleisti , jeigu be jos sakinys bus neaiškus. Vietoj išskubėjo gaisro gesinti nepasakysime išskubėjo gaisro; vietoj siuntė linelių rauti netiks siuntė linelių, nes tai reikš „atnešti“.
+Kai bendratis lengvai numanoma, paprastai vartojamas grynasis tikslo kilmininkas, t.y. kilmininkas be bendraties: *Kaimynas buvo kirvio atėjęs. Bėgdavom į pašlaites žibuoklių.* Tačiau bendraties negalima praleisti, jeigu be jos sakinys bus neaiškus. *Vietoj išskubėjo gaisro gesinti* nepasakysime *išskubėjo gaisro*; vietoj *siuntė linelių rauti* netiks *siuntė linelių*, nes tai reikš *„atnešti“*.
 
-Kai jokia bendratis prie tikslo kilmininko nėra numanoma ir jos pridėti negalima, gyvoji kalba(tarmės) grynojo kilmininko vengia-neįprasta, pvz:, eisim posėdžio(turėti?sėdėti? posėdžio posėdžiauti?-niekas tokių bendračių nepridėtų). Juozas Balčikonis teisingai yra aiškinęs , kad junginio susirinko posėdžio nederėtų teisinti junginiais susirinko pietų, važiuoja malkų, nes šiuose pasakomas siekiamas, norimas dalykas, o pats posėdis nėra siekiamas, tik jame siekiamieji dalykai sprendžiami. Taigi gyviau, įprasčiau sakyti Eisiu į posėdį arba posėdžiauti , nes tikslas lietuvių kalboje reiškiamas ir gryna bendratimi (Vaikai išbėgo grybauti), ir pprielinksnio į konstrukcija (Einu į darbą), ir kartais prielinksnio su konstrukcija (Vykstu su reikalais).
+Kai jokia bendratis prie tikslo kilmininko nėra numanoma ir jos pridėti negalima, gyvoji kalba (tarmės) grynojo kilmininko vengia — neįprasta, pvz:, *eisim posėdžio* (*turėti? sėdėti? posėdžio posėdžiauti?* — niekas tokių bendračių nepridėtų). Juozas Balčikonis teisingai yra aiškinęs, kad junginio *susirinko posėdžio* nederėtų teisinti junginiais *susirinko pietų*, *važiuoja malkų*, nes šiuose pasakomas siekiamas, norimas dalykas, o pats posėdis nėra siekiamas, tik jame siekiamieji dalykai sprendžiami. Taigi gyviau, įprasčiau sakyti *Eisiu į posėdį* arba *posėdžiauti*, nes tikslas lietuvių kalboje reiškiamas ir gryna bendratimi (*Vaikai išbėgo grybauti*), ir prielinksnio *į* konstrukcija (*Einu į darbą*), ir kartais prielinksnio *su* konstrukcija (*Vykstu su reikalais*).
 
-Dabar grynaisiais tikslo kilmininkais piknaudžiaujama-vartojama net ten, kur jokia bendratis nėra numanoma ir kur gyvojoje kalboje įprastesnės kitos raiškos priemonės: Taryba rinkosi pasitarimo (plg. įprastesnius pasakymus į pasitarimą, pasitarti). Diplomatai susitiko pokalbio (plg.pasikalbėti, aptarti reikalų).
+Dabar grynaisiais tikslo kilmininkais piknaudžiaujama — vartojama net ten, kur jokia bendratis nėra numanoma ir kur gyvojoje kalboje įprastesnės kitos raiškos priemonės: *Taryba rinkosi pasitarimo* (plg. įprastesnius pasakymus *į pasitarimą*, *pasitarti*). *Diplomatai susitiko pokalbio* (plg. *pasikalbėti, aptarti reikalų*).
 
-Kalboje varžosi tikslo reikšmės pasakymai atvyko vizito ir atvyko su vizitu. Trumpesnis atvyko vizito, bet daugiau analogijų turi J.Balčikonio remtas posakis atvyko su vizitu, plg. atvyko su reikalais, atvyko su taikos misija. Nesakoma atvyko taikos misijos, nesakoma ir atvyko reikalų, tiktų tik reikalų tvarkyti, bet prie atvyko vizito jokia bendratis-gauti, pasiimti ar kitokia-neįmanoma. Beje gydytojas į palatą eina ne vizito ir ne su vizitu, o ligonių vizituoti, ir šia antrąja reikšme bendratis yra tikrai gyva raiška.
+Kalboje varžosi tikslo reikšmės pasakymai *atvyko vizito* ir *atvyko su vizitu*. Trumpesnis *atvyko vizito*, bet daugiau analogijų turi J.Balčikonio remtas posakis *atvyko su vizitu*, plg. *atvyko su reikalais*, *atvyko su taikos misija*. Nesakoma *atvyko taikos misijos*, nesakoma ir *atvyko reikalų*, tiktų tik *reikalų tvarkyti*, bet prie *atvyko vizito* jokia bendratis.— *gauti, pasiimti* ar kitokia — neįmanoma. Beje gydytojas į palatą eina *ne vizito* ir *ne su vizitu*, o *ligonių vizituoti*, ir šia antrąja reikšme bendratis yra tikrai gyva raiška.
 
-Aiškiai klaidingas dabar plintantis pasakymas lankytis vizito, nes sangrąžinis veiksmažodis lankytis kilmininko nevaldo-galima tik lankytis kur, pas ką, su kuo: Lietuvoje lankytis vizito(=lankytis su vizitu, oficialiai lankytis) šios šalies užsienio reikalų ministras. Dar labiau netinka svečiuotis vizito, viešėti vizito.
+Aiškiai klaidingas dabar plintantis pasakymas *lankytis vizito*, nes sangrąžinis veiksmažodis lankytis kilmininko nevaldo — galima tik *lankytis kur, pas ką, su kuo*: Lietuvoje *lankytis vizito* (=l*ankytis su vizitu, oficialiai lankytis*) šios šalies užsienio reikalų ministras. Dar labiau netinka *svečiuotis vizito, viešėti vizito*.
 
-Kaip kilmininkas susijęs su vardininku ir galininku? Kilmininku virsta subjekto vardininkas(a) ir objekto galininkas(b), kai veiksmažodis tampa abstrakčiu veiksmažodiniu daiktavardžiu:
+Kaip kilmininkas susijęs su vardininku ir galininku? Kilmininku virsta subjekto vardininkas (**a**) ir objekto galininkas (**b**), kai veiksmažodis tampa abstrakčiu veiksmažodiniu daiktavardžiu:
 
-* a. moterys dainuoja-moterų dainavimas; paukštis skrenda-paukščio skridimas.
-* b. skaito knygą-knygos skaitymas; dirba žemę-žemės dirbimas.
+* **a**. *moterys dainuoja — moterų dainavimas*; *paukštis skrenda — paukščio skridimas*.
+* **b**. *skaito knygą — knygos skaitymas; dirba žemę — žemės dirbimas.*
 
-Kilmininkas atsiranda priekyje, nes tai yra įprastinė nederinamojo pažyminio vvieta. Kokių kalbinių sunkumų ar klaidų čia nebūna, išskyrus du atvejus.
+Kilmininkas atsiranda priekyje, nes tai yra įprastinė nederinamojo pažyminio vieta. Kokių kalbinių sunkumų ar klaidų čia nebūna, išskyrus du atvejus.
 
-Veikiamojo ir veikiančiojo dalyko (kitaip-subjekto ar objekto) raiškos klaidų pasitaiko tada, kai klystama parenkant linksnį su pačiu veiksmažodžiu ir iš jo padarytu daiktavardžiu. Kadangi taisoma atstovauja mokyklą(=mokyklai), tai taisytina ir mokyklos atstovavimas(=atstovavimas mokyklai).
+Veikiamojo ir veikiančiojo dalyko (kitaip — subjekto ar objekto) raiškos klaidų pasitaiko tada, kai klystama parenkant linksnį su pačiu veiksmažodžiu ir iš jo padarytu daiktavardžiu. Kadangi taisoma *atstovauja mokyklą* (=*mokyklai*), tai taisytina ir *mokyklos atstovavimas* (=*atstovavimas mokyklai*).
 
 Kita bėda-kartais susidaro dviprasmybė, ir neaišku, ar kilmininkas reiškia veikiantįjį, ar veikiamąjį dalyką. Pavyzdžiui, filmo pavadinimą „Raupsuotojo pabučiavimas“ galima suprasti dvejopai:kad raupsuotasis ką bučiavo ir kad raupsuotąjį kas bučiavo.
 
