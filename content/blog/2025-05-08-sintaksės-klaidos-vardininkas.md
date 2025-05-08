@@ -3,6 +3,8 @@ title: Sintaksės klaidos. VARDININKAS
 date: 2025-05-08T12:33:00.000Z
 description: J.Šukys „Lietuvių kalbos linksniai ir prielinksniai"
 ---
+<https://mokslai.lietuviuzodynas.lt/lietuviu-kalba/sintakses-klaidos-2>
+
 Vardininkas yra svarbiausias lietuvių kalbos linksnis. Jis dedamas į žodynus, įvardija kalbamąjį dalyką (todėl vardininkas). Kalboje vardininkas dažniausias, tačiau reikšmių turi nedaug. Vardininkas paprastai reiškia sakinio veikėją - jeigu tai asmuo (**a**), o plačiau imant, subjektą - tai, apie ką sakinyje kalbama (**b**):
 
 * **a.** *Prieklėty tėvelis dalgį plaka. Vaikai žaidžia. Aš nekaltas.*
@@ -55,5 +57,3 @@ Svyruojama nusakant į kabutes imamus simbolinius įstaigų, įmonių ir kitoki�
 Gyvesnis, buities kalbai teiktinesnis yra vardo kilmininkas, bet aiškesnis, patogesnis neretai būna vardo vardininkas, nes šnekamoji kalba kabučių neperteikia, ir gali susidaryti dvisprasmybė, pvz.: *Koncertavo „Lietuvos“ ansamblis* (kuris Lietuvos ansamblis?. Aiškiau: *ansamblis „Lietuva“*. Jei iš konteksto ar situacijos aišku, apie ką kalbama, objekto pobūdį nurodantis žodis paprastai nesakomas ir kaitomas vien vardas: *Sesuo dirbo „Vagoje“.* *Užsisakiau „Respubliką“*. *Nugalėjo „Žalgiris“*.
 
 Nesimbolinių, ne kaip nors oficialiai suteiktų, o tradicinių vardų objektus - miestus, kaimus, upes, ežerus ir pan. įprasta nusakyti vardo kilmininkais, o ne vardininkais. Vietoj *miestas Kaunas*, *upė Šventoji* K.Būga teikė *Kauno miestas*, *Šventosios upė* arba tiesiog *Kaunas*, *Šventoji*.
-
-<https://mokslai.lietuviuzodynas.lt/lietuviu-kalba/sintakses-klaidos-2>
