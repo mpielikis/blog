@@ -3,6 +3,8 @@ title: Sintaksės Klaidos. KILMININKAS
 date: 2025-05-08T12:45:00.000Z
 description: J.Šukys „Lietuvių kalbos linksniai ir prielinksniai"
 ---
+<https://mokslai.lietuviuzodynas.lt/lietuviu-kalba/sintakses-klaidos-2>
+
 Kilmininkas yra dažnas, svarbus, jo reikšmės gana įvairios. Jis neretai turi aiškų ryšį su kitais dviem svarbiais linksniais — vardininku ir galininku.
 
 Su papildymo reikalaujančiais veiksmažodžiais bijoti, laukti, reikėti, stigti ir pan. kilmininkas rodo, į ką krypsta veiksmas, t.y. reiškia objektą ir eina papildiniu: *Bijai vilko — neik į girią*. *Sulaukėm naujo atgimimo*.
@@ -93,23 +95,21 @@ Kilmininkas atsiranda priekyje, nes tai yra įprastinė nederinamojo pažyminio 
 
 Veikiamojo ir veikiančiojo dalyko (kitaip — subjekto ar objekto) raiškos klaidų pasitaiko tada, kai klystama parenkant linksnį su pačiu veiksmažodžiu ir iš jo padarytu daiktavardžiu. Kadangi taisoma *atstovauja mokyklą* (=*mokyklai*), tai taisytina ir *mokyklos atstovavimas* (=*atstovavimas mokyklai*).
 
-Kita bėda-kartais susidaro dviprasmybė, ir neaišku, ar kilmininkas reiškia veikiantįjį, ar veikiamąjį dalyką. Pavyzdžiui, filmo pavadinimą „Raupsuotojo pabučiavimas“ galima suprasti dvejopai:kad raupsuotasis ką bučiavo ir kad raupsuotąjį kas bučiavo.
+Kita bėda — kartais susidaro dviprasmybė, ir neaišku, ar kilmininkas reiškia veikiantįjį, ar veikiamąjį dalyką. Pavyzdžiui, filmo pavadinimą *„Raupsuotojo pabučiavimas“* galima suprasti dvejopai: kad raupsuotasis ką bučiavo ir kad raupsuotąjį kas bučiavo.
 
-Dar minėtinas subjekto kilmininkas su neveikiamaisiais dalyviais. Su asmenuojamuoju veiksmažodžiu ėjęs vardininkas prie neveikiamojo dalyvio būtinai virsta kilmininku , plg. Tėvas laukia sūnaus-Tai sūnus, laukaimas tėvo. Sesuo renka vaistažoles-čia vaistažolės surinktos sesers.
+Dar minėtinas subjekto kilmininkas su neveikiamaisiais dalyviais. Su asmenuojamuoju veiksmažodžiu ėjęs vardininkas prie neveikiamojo dalyvio būtinai virsta kilmininku, plg. *Tėvas laukia sūnaus* — *Tai sūnus, laukiamas tėvo*. *Sesuo renka vaistažoles* — *čia vaistažolės surinktos sesers*.
 
-Reikėtų išlaikyti jau benykstantį subjekto kilmininką su bevardės giminės neveikiamaisiais dalyviais, nes jis dėl savo prasminių atspalvių stilistiškai vertingas, ypač laisvuosiuose kalbos stiliuose: O, svečių esama, plg. svečių yra!(nustebimas, netikėtumas). Motinai visai paaiškėjo, kad karalaičio turima kur kokia mylima, plg. karalaitis turi mylimą(pabrėžiamas pasitvirtinęs spėtas įtarimas).
+Reikėtų išlaikyti jau benykstantį subjekto kilmininką su bevardės giminės neveikiamaisiais dalyviais, nes jis dėl savo prasminių atspalvių stilistiškai vertingas, ypač laisvuosiuose kalbos stiliuose: *O, svečių esama*, plg. *svečių yra!* (nustebimas, netikėtumas). *Motinai visai paaiškėjo, kad karalaičio turima kur kokia mylima*, plg. *karalaitis turi mylimą* (pabrėžiamas pasitvirtinęs spėtas įtarimas).
 
-Labai daug lietuvių kalbos kilmininkų yra pažymimieji, kitaip –nusakomieji. Jie visada vartojami su daiktavardžiais, apibūdina daiktą ir sakinyje eina nederamaisiais pažyminiais. (Klevo lapai pagelto), kartais –vardine tarinio dalimi (Šitas lapas klevo).
+Labai daug lietuvių kalbos kilmininkų yra pažymimieji, kitaip — nusakomieji. Jie visada vartojami su daiktavardžiais, apibūdina daiktą ir sakinyje eina nederamaisiais pažyminiais. (Klevo lapai pagelto), kartais —vardine tarinio dalimi (Šitas lapas klevo).
 
-Dažniausiai tokie kilmininkai turi priklausymo reikšmę – pasako , kokiam asmeniui ar administraciniam vienetui kas priklauso(a), kokio asmens kas sukurta(b), kokio daikto ar kokios 
+Dažniausiai tokie kilmininkai turi priklausymo reikšmę — pasako, kokiam asmeniui ar administraciniam vienetui kas priklauso (**a**), kokio asmens kas sukurta (**b**), kokio daikto ar kokios visumos yra kuri sudėtinė dalis (**c**):
 
-visumos yra kuri sudėtinė dalis(c):
+* **a**. *Čia tėvų namai. Mano kraštas — Lietuva.*
+* **b**. *Salę puošia dailininkų freskos, vitražai. Poeto posmai mus įkvepia.*
+* **c**. *Malėjos miltinos rankos. Zuikio dantys vilkui nebaisūs.*
 
-* a. Čia tėvų namai.Mano kraštas-Lietuva.
-* b. Salę puošia dailininkų freskos, vitražai.Poeto posmai mus įkvepia.
-* c. Malėjos miltinos rankos. Zuikio dantys vilkui nebaisūs.
-
-Lietuvių kalboje gana sudėtingi priklausymo kilmininko ir objekto naudininko santykiai. Ne visada lengva nuspręsti, ką rinktis. Kai kalbama apie asmenis, gyvus padarus, dažnai įmanoma pavartoti ir priklausymo kilmininką, ir objekto (nutinkančio kam dalyko) naudininką , plg. Sudegė brolio tvartas-Sudegė broliui tvartas (kilmininku čia labiau pabrėžta, kam priklausė tvartas, naudininku- kas nutiko broliui). Pietų Lietuva čia dažniau vartoja ppriklausymo kilmininką, o šiaurės Lietuva, ypač Palatvijys, -paprastai objekto naudininką.
+Lietuvių kalboje gana sudėtingi priklausymo kilmininko ir objekto naudininko santykiai. Ne visada lengva nuspręsti, ką rinktis. Kai kalbama apie asmenis, gyvus padarus, dažnai įmanoma pavartoti ir priklausymo kilmininką, ir objekto (nutinkančio kam dalyko) naudininką , plg. *Sudegė brolio tvartas* — *Sudegė broliui tvartas* (kilmininku čia labiau pabrėžta, kam priklausė tvartas, naudininku — kas nutiko broliui). Pietų Lietuva čia dažniau vartoja priklausymo kilmininką, o šiaurės Lietuva, ypač Palatvijys, — paprastai objekto naudininką.
 
 Priklausymo kilmininkas dabar per daug plinta ir, ypač publicistikoje, baigia išstumti objekto naudininką- net ten, kur tikrai derėtų pabrėžti asmenį, kuriam kas nors daroma ar kas nutinka: Jis paspaudė draugo(-draugui) ranką( jei sveikinosi , o ne spustelėjimu davė kokį sutartą ženklą, tikrino pulsą ar atliko kokią procedūrą, kai ranka tampa lyg savarankiškas objektas). Pažvelgiau į jo (-jam į) akis.
 
